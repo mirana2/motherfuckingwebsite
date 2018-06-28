@@ -1,0 +1,29 @@
+#botton-modal {
+	height: 50px;
+	width: 300px; 
+	background-color: silver;
+	color: red;
+	font-family: helvetica;
+	font-size: 20px;
+	border: 1px solid red;
+	border-radius: 20px;
+	cursor: pointer;
+}
+.botton {
+	text-align: center;
+	width: 100%;
+}
+#modal {
+	height: 150px;
+	width: 50%;
+	background-color: #000;
+	border-radius: 20px;
+	color: red;
+	font-family: helvetica;
+	text-align: center;
+	font-size: 30px;
+	position: absolute;
+	top: -200px;
+	right: 200px;
+	left: 200px;
+}
